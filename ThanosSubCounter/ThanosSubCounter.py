@@ -3,8 +3,8 @@ import threading
 import os
 from requests import Session
 
-clientid = "Noq-NikcMLoQ_w"
-clientsecret = "AdAbc8825ItJC4P2R3GfCVGLxJY"
+clientid = "sr3m0IVZunKl0Q"
+clientsecret = "hl2PC6GTe_kEMIobo8etOSuhIZg"
 
 reddit = praw.Reddit(client_id=clientid,
                      client_secret=clientsecret,
